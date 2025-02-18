@@ -132,7 +132,7 @@ export default function ArchiveFiles() {
             border: "1px solid #ddd",
             borderRadius: "8px",
             overflowY: "auto",
-            height: "56vh",
+            height: "57vh",
             backgroundColor: "#fff",
           }}
         >
